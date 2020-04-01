@@ -93,7 +93,6 @@ function setMove(x, y, player) {
 }
 
 /* *** AI function that choice the best move *** */
-// Read more on https://github.com/Cledersonbc/tic-tac-toe-minimax/
 function minimax(state, depth, player) {
 	var best;
 
